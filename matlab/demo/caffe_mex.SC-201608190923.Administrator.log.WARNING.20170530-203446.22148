@@ -1,0 +1,4 @@
+Log file created at: 2017/05/30 20:34:46
+Running on machine: SC-201608190923
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0530 20:34:46.637686  8972 upgrade_proto.cpp:71] Note that future Caffe releases will only support input layers and not input fields.
